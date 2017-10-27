@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-class SecondGit
+class p1
 {
 	public static main(String args[])
 	{
-		Suystem.out.println("This is for desktop github file..");
+		System.out.println("This is for desktop github file..");
 	}
 }
